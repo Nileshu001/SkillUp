@@ -1,0 +1,23 @@
+img {
+    width: 120px;
+    height: 45px;
+}
+
+header {
+    position: fixed;
+    display: flex;    
+    justify-content: space-between;
+    width: 100%;
+    padding: 1%;
+    background: #F0FFF0;
+    text-align: center;
+}
+.headerContainer_page{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+    width: 25%;
+    align-items: center;
+    text-align: center;
+}
+
